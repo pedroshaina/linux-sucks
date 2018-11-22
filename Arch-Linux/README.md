@@ -46,9 +46,9 @@
 
 ## Step by step instalation 
 
-[Commands used](../INSTALATION.md) 
+[Commands used](INSTALATION.md) 
 
-[Tips on using Arch](../TIPS.md)
+[Tips on using Arch](TIPS.md)
 
 
 

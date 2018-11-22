@@ -10,8 +10,8 @@ I will try to make these tips distro agnostic and I will focus on CentOS, Debian
 
 #### Here are the shortcuts to what is already covered:
 
-[Arch Linux Instalation](../Arch-Linux)
-[Ansible](../Ansible)
-[Troubleshooting](../Troubleshooting)
+[Arch Linux Instalation](Arch-Linux/)
+[Ansible](Ansible/)
+[Troubleshooting](Troubleshooting/)
 
 
